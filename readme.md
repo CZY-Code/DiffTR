@@ -5,7 +5,7 @@ DiffTR learns a coordinate-conditioned tensor representation from the available 
 ## Overview 
 
 <p align="center">
-  <img src="docs/fig1.png" alt="DiffTR framework: shared coordinate factors, conditional diffusion, and task-specific recovery" width="50%">
+  <img src="docs/fig1.png" alt="DiffTR framework: shared coordinate factors, conditional diffusion, and task-specific recovery" width="100%">
 </p>
 
 Coordinate-indexed factors encode dependencies shared across tensor entries. Score matching learns the factors and conditional score together. Completion samples missing entries or tubes; denoising combines clean-value estimation, sparse-noise separation, and optional spatial consistency. Super-resolution learns from LR-HSI and uses HR-MSI guidance followed by observation and spectral-subspace refinement. Each tensor supplies its own training observations.
