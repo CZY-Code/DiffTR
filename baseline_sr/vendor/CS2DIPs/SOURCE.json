@@ -1,0 +1,38 @@
+{
+  "repository": "Ambitionfy/CS2DIPs",
+  "url": "https://github.com/Ambitionfy/CS2DIPs",
+  "commit": "943a282f058cb8787dcbcec97348bedc45ce85cf",
+  "default_branch": "main",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 502,
+      "sha256": "9306b1664d905f267d5afc4c194ae7d76f9905e00bd762cb93118455355ccd8d"
+    },
+    {
+      "path": "demo.py",
+      "bytes": 5989,
+      "sha256": "0b14066c31bc0cfc86954cb5a4cb99b249553dcd480716d20a5e01fa5431a233"
+    },
+    {
+      "path": "modules/SR_util.py",
+      "bytes": 1709,
+      "sha256": "8d9efd77ee6cbfae9d9cdc4029f21398d8a4acfdb03fccbab7e17b060d344afd"
+    },
+    {
+      "path": "modules/common.py",
+      "bytes": 4828,
+      "sha256": "8982e65e1f24a906e156defa174ca84edfd53b36d99abbbb4a48fbea0b5f68ff"
+    },
+    {
+      "path": "modules/model.py",
+      "bytes": 22031,
+      "sha256": "9d3ae14cb3f77648f2f238d4a5fbddf16fd2e79e204dbba2f5d4f495339db65b"
+    },
+    {
+      "path": "modules/utils.py",
+      "bytes": 2043,
+      "sha256": "90040abcfa341d74392fa7a1bae2720ce4cd98958564443b319e0f3a19516eff"
+    }
+  ]
+}

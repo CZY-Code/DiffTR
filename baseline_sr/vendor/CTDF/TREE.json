@@ -1,0 +1,236 @@
+{
+  "sha": "62a7cd7df870f39e3455081f23653355ab26ae55",
+  "url": "https://api.github.com/repos/tingxu113/CTDF/git/trees/62a7cd7df870f39e3455081f23653355ab26ae55",
+  "tree": [
+    {
+      "path": "CTN",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0ed69276d0f7872de5483f7cf33f415013245619",
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/trees/0ed69276d0f7872de5483f7cf33f415013245619"
+    },
+    {
+      "path": "CTN/CG.p",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5126fd2c62bf8711abfe967020c80d1ccfac0ffd",
+      "size": 351,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/5126fd2c62bf8711abfe967020c80d1ccfac0ffd"
+    },
+    {
+      "path": "CTN/CG_2.p",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67aee047eee569aca5f5107c32f840e769795f34",
+      "size": 323,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/67aee047eee569aca5f5107c32f840e769795f34"
+    },
+    {
+      "path": "CTN/CTN_FUS.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c6e28de3a875a50e278a7f20db3f967291793a69",
+      "size": 631,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/c6e28de3a875a50e278a7f20db3f967291793a69"
+    },
+    {
+      "path": "CTN/DT_ALS.p",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "282400dc2933b1650ad7865bd6ffed06cb5499ce",
+      "size": 489,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/282400dc2933b1650ad7865bd6ffed06cb5499ce"
+    },
+    {
+      "path": "CTN/HTHx.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aae2d6af13c3b5ec6dd69544c7eb17b66152f6ec",
+      "size": 724,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/aae2d6af13c3b5ec6dd69544c7eb17b66152f6ec"
+    },
+    {
+      "path": "CTN/HT_y.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "00693d7ea8750ea2865a1d4cacf7ff7dc2dbf3b0",
+      "size": 701,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/00693d7ea8750ea2865a1d4cacf7ff7dc2dbf3b0"
+    },
+    {
+      "path": "CTN/H_z.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94e91ee773a5ed9cd96c3821a8f5e0d0403cf1c1",
+      "size": 482,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/94e91ee773a5ed9cd96c3821a8f5e0d0403cf1c1"
+    },
+    {
+      "path": "CTN/create_F.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e5105cf8c9c4656c01b6fedb0d15220cc11b06b1",
+      "size": 527,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/e5105cf8c9c4656c01b6fedb0d15220cc11b06b1"
+    },
+    {
+      "path": "CTN/hyperConvert2D.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9126ebf6e4c44333435700431ff77e08842b79c",
+      "size": 212,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/d9126ebf6e4c44333435700431ff77e08842b79c"
+    },
+    {
+      "path": "CTN/hyperConvert3D.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ebb54df9e440e3d0ff3f846aa1545dd46f3273a5",
+      "size": 205,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/ebb54df9e440e3d0ff3f846aa1545dd46f3273a5"
+    },
+    {
+      "path": "Data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9f303a7181460e8e411249171501bdd10b3a5685",
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/trees/9f303a7181460e8e411249171501bdd10b3a5685"
+    },
+    {
+      "path": "Data/resize_Paints.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "930e54765eb37fee331c98aaad2fa3cb65d6e23f",
+      "size": 15313826,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/930e54765eb37fee331c98aaad2fa3cb65d6e23f"
+    },
+    {
+      "path": "Demo.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b685749295f47921c3f1f172a3ce2e617130e7a",
+      "size": 2726,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/7b685749295f47921c3f1f172a3ce2e617130e7a"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f826cfe884dd2fe3ced004e72bfee7f0874a750",
+      "size": 1388,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/6f826cfe884dd2fe3ced004e72bfee7f0874a750"
+    },
+    {
+      "path": "metric",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d643d5b715186cf05a345b6b973a27b84b9e5c94",
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/trees/d643d5b715186cf05a345b6b973a27b84b9e5c94"
+    },
+    {
+      "path": "metric/CC.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d84ab2d81605e6e739d766018c9438e8fac765f3",
+      "size": 958,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/d84ab2d81605e6e739d766018c9438e8fac765f3"
+    },
+    {
+      "path": "metric/ErrRelGlobAdimSyn.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b91058bb5448a73d1b5b8563caf42b5e5542b8d1",
+      "size": 1323,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/b91058bb5448a73d1b5b8563caf42b5e5542b8d1"
+    },
+    {
+      "path": "metric/PTPx.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f02b948fadd0c5c17502e7e93aaa0c16e2c3fb29",
+      "size": 325,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/f02b948fadd0c5c17502e7e93aaa0c16e2c3fb29"
+    },
+    {
+      "path": "metric/PTx.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ebb29ea5d6c773e677c6faf6818ea7942a821dbf",
+      "size": 208,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/ebb29ea5d6c773e677c6faf6818ea7942a821dbf"
+    },
+    {
+      "path": "metric/SpectAngMapper.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bbe3168000e263695ae3df355ee15261acf387ca",
+      "size": 1153,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/bbe3168000e263695ae3df355ee15261acf387ca"
+    },
+    {
+      "path": "metric/cal_ssim.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bdbcf30932af497d31d99d29db242b31e3c69e54",
+      "size": 6161,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/bdbcf30932af497d31d99d29db242b31e3c69e54"
+    },
+    {
+      "path": "metric/create_F.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e5105cf8c9c4656c01b6fedb0d15220cc11b06b1",
+      "size": 527,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/e5105cf8c9c4656c01b6fedb0d15220cc11b06b1"
+    },
+    {
+      "path": "metric/csnr.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f063fb220ae04e0f89a7189162be49f5f3906715",
+      "size": 373,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/f063fb220ae04e0f89a7189162be49f5f3906715"
+    },
+    {
+      "path": "metric/getrmse.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a17e6417f0cb400694d5445a5563159fa4676ac",
+      "size": 244,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/0a17e6417f0cb400694d5445a5563159fa4676ac"
+    },
+    {
+      "path": "metric/hyperConvert2D.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9126ebf6e4c44333435700431ff77e08842b79c",
+      "size": 212,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/d9126ebf6e4c44333435700431ff77e08842b79c"
+    },
+    {
+      "path": "metric/hyperConvert3D.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ebb54df9e440e3d0ff3f846aa1545dd46f3273a5",
+      "size": 205,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/ebb54df9e440e3d0ff3f846aa1545dd46f3273a5"
+    },
+    {
+      "path": "metric/img_qi.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e593e2947aa00b18080ef6cb2f57c8d25357f0eb",
+      "size": 4063,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/e593e2947aa00b18080ef6cb2f57c8d25357f0eb"
+    },
+    {
+      "path": "metric/quality_assessment.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cbc705c418ccc85a9cf63084837717ddd0f6eb7c",
+      "size": 3048,
+      "url": "https://api.github.com/repos/tingxu113/CTDF/git/blobs/cbc705c418ccc85a9cf63084837717ddd0f6eb7c"
+    }
+  ],
+  "truncated": false
+}

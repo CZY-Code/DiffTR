@@ -1,0 +1,722 @@
+{
+  "sha": "997132b1db2a8db01bb9f8e23c25374af790fbe1",
+  "url": "https://api.github.com/repos/renweidian/GTNN/git/trees/997132b1db2a8db01bb9f8e23c25374af790fbe1",
+  "tree": [
+    {
+      "path": "Gernalized_TSVD_FUS.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "295e5a88c22df1b5fb53e93dba17c46d6f67a119",
+      "size": 3809,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/295e5a88c22df1b5fb53e93dba17c46d6f67a119"
+    },
+    {
+      "path": "TSVD",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ad27657749345d46bf801da8c7fa6f1bf4ce6a3a",
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/trees/ad27657749345d46bf801da8c7fa6f1bf4ce6a3a"
+    },
+    {
+      "path": "TSVD/ClosedWNNM.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "646229111b0c61862295d16baa940c0f18af6b0b",
+      "size": 193,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/646229111b0c61862295d16baa940c0f18af6b0b"
+    },
+    {
+      "path": "TSVD/Gernalized_TSVD_FUS.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7de16861e003a9580b09b85b93f383a9fbd46fd",
+      "size": 3807,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/f7de16861e003a9580b09b85b93f383a9fbd46fd"
+    },
+    {
+      "path": "TSVD/Gernalized_TSVD_Subpace_FUS.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77641d59cf2071eff31c9bdcec60a08cef73a708",
+      "size": 4119,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/77641d59cf2071eff31c9bdcec60a08cef73a708"
+    },
+    {
+      "path": "TSVD/JointBlocks1.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "50f40c587087a21d305621847b56e1b93a07b1b8",
+      "size": 3629,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/50f40c587087a21d305621847b56e1b93a07b1b8"
+    },
+    {
+      "path": "TSVD/LibADMM-master.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e4a1104116d070d877d7d0e19032dd53b6ebb1b8",
+      "size": 462691,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/e4a1104116d070d877d7d0e19032dd53b6ebb1b8"
+    },
+    {
+      "path": "TSVD/LibADMM-master",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b7cfc983f5cdb6ddf36b33afccc3b4c3cbfb196d",
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/trees/b7cfc983f5cdb6ddf36b33afccc3b4c3cbfb196d"
+    },
+    {
+      "path": "TSVD/LibADMM-master/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "297dc046fad889c808a1615487cebceb9fa259a5",
+      "size": 3031,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/297dc046fad889c808a1615487cebceb9fa259a5"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0e0bbb9d18549c93ee012927b5e137d82ba5f8ac",
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/trees/0e0bbb9d18549c93ee012927b5e137d82ba5f8ac"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/comp_loss.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f6c6d145a178c2555179598381472773c74deb53",
+      "size": 268,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/f6c6d145a178c2555179598381472773c74deb53"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/elasticnet.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b9c667e4d7c5c520c33c392bf09d53966f2770f",
+      "size": 2621,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/7b9c667e4d7c5c520c33c392bf09d53966f2770f"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/elasticnetR.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "37b07f7c7d9895c56428cce453cd5d92a2008da6",
+      "size": 3345,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/37b07f7c7d9895c56428cce453cd5d92a2008da6"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/fusedl1.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a83061a3dc3585abc9697eef07da44852b4e1b90",
+      "size": 3143,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/a83061a3dc3585abc9697eef07da44852b4e1b90"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/fusedl1R.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f81062a0ce11669925ffb238337727acefa2000",
+      "size": 3840,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/5f81062a0ce11669925ffb238337727acefa2000"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/groupl1.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8132ecd721fe372e1d6364c97ec61408cc1b832c",
+      "size": 2833,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/8132ecd721fe372e1d6364c97ec61408cc1b832c"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/groupl1R.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6646a0cdaf548659bf876173145a8490ee841965",
+      "size": 3534,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/6646a0cdaf548659bf876173145a8490ee841965"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/igc.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b83f0ce7e894c689de28299525f7bef51ae46d47",
+      "size": 2827,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/b83f0ce7e894c689de28299525f7bef51ae46d47"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/ksupport.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "989037cfb66af1d9b8460a396bda87345d86c378",
+      "size": 2477,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/989037cfb66af1d9b8460a396bda87345d86c378"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/ksupportR.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1b31da2e39d41fa085c18856f6a342ab43e896f2",
+      "size": 3179,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/1b31da2e39d41fa085c18856f6a342ab43e896f2"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/l1.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18add60834bc626e6d9066c6bd53008a1c745928",
+      "size": 2487,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/18add60834bc626e6d9066c6bd53008a1c745928"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/l1R.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc65fc933ca1c32c6d086b81757aac99cc1f41d6",
+      "size": 3188,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/fc65fc933ca1c32c6d086b81757aac99cc1f41d6"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/latlrr.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c08c463337a0fc909d36b6155d03cbe916f2057",
+      "size": 3760,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/0c08c463337a0fc909d36b6155d03cbe916f2057"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/lrmc.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f90573584cf99541335121b9c6dc188aa3d8cfb",
+      "size": 2409,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/8f90573584cf99541335121b9c6dc188aa3d8cfb"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/lrmcR.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "07f496be4c4e9599c54a209ce291d8bccd1a9105",
+      "size": 3430,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/07f496be4c4e9599c54a209ce291d8bccd1a9105"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/lrr.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e413452e262afd6f6ddd20c2b839ed7352efceb9",
+      "size": 3659,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/e413452e262afd6f6ddd20c2b839ed7352efceb9"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/lrsr.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "418bbb280740ea192fb3aaec661e98a75204e535",
+      "size": 3971,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/418bbb280740ea192fb3aaec661e98a75204e535"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/lrtcR_snn.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f5d2231f1512193affd385cfbde065dec73d3ae",
+      "size": 3379,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/1f5d2231f1512193affd385cfbde065dec73d3ae"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/lrtcR_tnn.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "acb495df494b347dfe4643048860bbd1c058a6c6",
+      "size": 3269,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/acb495df494b347dfe4643048860bbd1c058a6c6"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/lrtc_snn.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "02427e9b92d538c7b7ccff37f735086c1aa749f2",
+      "size": 2685,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/02427e9b92d538c7b7ccff37f735086c1aa749f2"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/lrtc_tnn.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b76d9fb868b150477447c33c23e35e4756a65f36",
+      "size": 2435,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/b76d9fb868b150477447c33c23e35e4756a65f36"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/lrtr_Gaussian_tnn.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19b598198460e2a74f273f9bec823dde094f837b",
+      "size": 2819,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/19b598198460e2a74f273f9bec823dde094f837b"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/mlap.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c71f468519f0cf34a16d8ed688a44b64bdccb7af",
+      "size": 4919,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/c71f468519f0cf34a16d8ed688a44b64bdccb7af"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/rmsc.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e67943c0e4e6e5d6b6d094f0769ccce36f0d7778",
+      "size": 2845,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/e67943c0e4e6e5d6b6d094f0769ccce36f0d7778"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/rpca.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "39e16790b2122966001546242f8722154ff8773a",
+      "size": 3051,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/39e16790b2122966001546242f8722154ff8773a"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/sparsesc.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4bcbd62258d4cf49a25855d7fb9765a3e20d3d49",
+      "size": 2553,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/4bcbd62258d4cf49a25855d7fb9765a3e20d3d49"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/tracelasso.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dd5203a80a1f4fad195d9c5d83b1e92255a3fdfc",
+      "size": 2679,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/dd5203a80a1f4fad195d9c5d83b1e92255a3fdfc"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/tracelassoR.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e5f018c2dcab6afb26b66f3f61d0c09c7f666f7",
+      "size": 3359,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/6e5f018c2dcab6afb26b66f3f61d0c09c7f666f7"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/trpca_snn.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "982c35854dd1a9dc4ee82926262f65ff93126e33",
+      "size": 2628,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/982c35854dd1a9dc4ee82926262f65ff93126e33"
+    },
+    {
+      "path": "TSVD/LibADMM-master/algorithms/trpca_tnn.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a06d7f25e1c283dc1b368640994c038eb4b27e23",
+      "size": 2892,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/a06d7f25e1c283dc1b368640994c038eb4b27e23"
+    },
+    {
+      "path": "TSVD/LibADMM-master/example_low_rank_matrix_models.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c41091ec8d97bc22d4884780e37805c5d6f4825",
+      "size": 2925,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/2c41091ec8d97bc22d4884780e37805c5d6f4825"
+    },
+    {
+      "path": "TSVD/LibADMM-master/example_low_rank_tensor_models.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4074ce678e0efac2f495c65bf19f3d4970bbccc1",
+      "size": 4051,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/4074ce678e0efac2f495c65bf19f3d4970bbccc1"
+    },
+    {
+      "path": "TSVD/LibADMM-master/example_sparse_models.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dc54f64c317d9a983b653e2ae4c779072febf052",
+      "size": 2463,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/dc54f64c317d9a983b653e2ae4c779072febf052"
+    },
+    {
+      "path": "TSVD/LibADMM-master/manual.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e5b68a30fbd27c71b9519a50eff2199cbc40789",
+      "size": 232380,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/7e5b68a30fbd27c71b9519a50eff2199cbc40789"
+    },
+    {
+      "path": "TSVD/LibADMM-master/proximal_operators",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "30e2af3fa23032400c85f5afd5f397d6ea4b5626",
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/trees/30e2af3fa23032400c85f5afd5f397d6ea4b5626"
+    },
+    {
+      "path": "TSVD/LibADMM-master/proximal_operators/cappedsimplexprojection.cpp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80687bdc4a465c49334771ddb263805c22129824",
+      "size": 3670,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/80687bdc4a465c49334771ddb263805c22129824"
+    },
+    {
+      "path": "TSVD/LibADMM-master/proximal_operators/cappedsimplexprojection.mexw64",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5e92452e3699a51c9372b136f7334d2d971790ab",
+      "size": 18432,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/5e92452e3699a51c9372b136f7334d2d971790ab"
+    },
+    {
+      "path": "TSVD/LibADMM-master/proximal_operators/cappedsimplexprojection_matlab.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad606a103bd006ea6eed11193447cbc9b41a0bda",
+      "size": 1246,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/ad606a103bd006ea6eed11193447cbc9b41a0bda"
+    },
+    {
+      "path": "TSVD/LibADMM-master/proximal_operators/flsa.c",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c14c48c8d26215ef62d26727b71ea6f89e37d43c",
+      "size": 4173,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/c14c48c8d26215ef62d26727b71ea6f89e37d43c"
+    },
+    {
+      "path": "TSVD/LibADMM-master/proximal_operators/flsa.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a4b6dabe978ac969e5eb283dfa5e850331267ab",
+      "size": 8805,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/5a4b6dabe978ac969e5eb283dfa5e850331267ab"
+    },
+    {
+      "path": "TSVD/LibADMM-master/proximal_operators/flsa.mexglx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "715cb3422a73f482bbd6b91abf184d1d694a5aab",
+      "size": 19649,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/715cb3422a73f482bbd6b91abf184d1d694a5aab"
+    },
+    {
+      "path": "TSVD/LibADMM-master/proximal_operators/flsa.mexw32",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3c9c884eac34422e17d755ef3a6c69a4202d78c",
+      "size": 20480,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/c3c9c884eac34422e17d755ef3a6c69a4202d78c"
+    },
+    {
+      "path": "TSVD/LibADMM-master/proximal_operators/flsa.mexw64",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f0a138029905c2ef133b456e2c5e2d794d035af",
+      "size": 30720,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/4f0a138029905c2ef133b456e2c5e2d794d035af"
+    },
+    {
+      "path": "TSVD/LibADMM-master/proximal_operators/project_box.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77d866440c4ea2ef2a59ea93b255b1d1b0024171",
+      "size": 196,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/77d866440c4ea2ef2a59ea93b255b1d1b0024171"
+    },
+    {
+      "path": "TSVD/LibADMM-master/proximal_operators/project_fantope.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2780d628da90005660902fa918fb959773a02ceb",
+      "size": 354,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/2780d628da90005660902fa918fb959773a02ceb"
+    },
+    {
+      "path": "TSVD/LibADMM-master/proximal_operators/project_simplex.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c8965888f5358524768ecabc5af8ffe11ca920c",
+      "size": 530,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/9c8965888f5358524768ecabc5af8ffe11ca920c"
+    },
+    {
+      "path": "TSVD/LibADMM-master/proximal_operators/prox_elasticnet.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b35d8a29e9d4731c1eac09c09c3459ae058b9d30",
+      "size": 286,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/b35d8a29e9d4731c1eac09c09c3459ae058b9d30"
+    },
+    {
+      "path": "TSVD/LibADMM-master/proximal_operators/prox_gl1.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b14563b610b01a6900b210290aec3781049a9f6",
+      "size": 548,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/9b14563b610b01a6900b210290aec3781049a9f6"
+    },
+    {
+      "path": "TSVD/LibADMM-master/proximal_operators/prox_ksupport.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2efae8f6c2c3b2205a923dacc020908343c5b9cb",
+      "size": 1804,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/2efae8f6c2c3b2205a923dacc020908343c5b9cb"
+    },
+    {
+      "path": "TSVD/LibADMM-master/proximal_operators/prox_l1.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60fed8e20df85fb602a9debf22a2d2e4ed304edc",
+      "size": 226,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/60fed8e20df85fb602a9debf22a2d2e4ed304edc"
+    },
+    {
+      "path": "TSVD/LibADMM-master/proximal_operators/prox_l21.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "697497cff9f2994eaf1b960c33daa723b9a0e1ae",
+      "size": 410,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/697497cff9f2994eaf1b960c33daa723b9a0e1ae"
+    },
+    {
+      "path": "TSVD/LibADMM-master/proximal_operators/prox_nuclear.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a513ec3adbdf5a22b2cfbd4fdfbd5551ed6072bb",
+      "size": 448,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/a513ec3adbdf5a22b2cfbd4fdfbd5551ed6072bb"
+    },
+    {
+      "path": "TSVD/LibADMM-master/proximal_operators/prox_tnn.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd2537fdf6f7d415ac868fc9e5ed18ed08b29f6d",
+      "size": 1652,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/cd2537fdf6f7d415ac868fc9e5ed18ed08b29f6d"
+    },
+    {
+      "path": "TSVD/LibADMM-master/readme.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0362fdc60f8ff73b4a3469ebbb282ecf51322405",
+      "size": 1566,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/0362fdc60f8ff73b4a3469ebbb282ecf51322405"
+    },
+    {
+      "path": "TSVD/LibADMM-master/tab_problemlist.JPG",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ab0250181bf8968fa191a70445517d49edd66a8",
+      "size": 199481,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/1ab0250181bf8968fa191a70445517d49edd66a8"
+    },
+    {
+      "path": "TSVD/LibADMM-master/tensor_tools",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ee234ec95c25791e6f81a7ee5a310b4a3cb45f8e",
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/trees/ee234ec95c25791e6f81a7ee5a310b4a3cb45f8e"
+    },
+    {
+      "path": "TSVD/LibADMM-master/tensor_tools/Fold.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e21dae596bd1a58e105b53a38dddda35b4827d0",
+      "size": 114,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/9e21dae596bd1a58e105b53a38dddda35b4827d0"
+    },
+    {
+      "path": "TSVD/LibADMM-master/tensor_tools/Unfold.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "652c1e877cf9bd1e94135a6aa7abef805e2b0eed",
+      "size": 77,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/652c1e877cf9bd1e94135a6aa7abef805e2b0eed"
+    },
+    {
+      "path": "TSVD/LibADMM-master/tensor_tools/nmodeproduct.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c72d10c34bda88cf91ad8668d5eec06981a81a2a",
+      "size": 1666,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/c72d10c34bda88cf91ad8668d5eec06981a81a2a"
+    },
+    {
+      "path": "TSVD/LibADMM-master/tensor_tools/tprod.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bbc9252f08b6bd8bf18db15ec258d457b1f2a1be",
+      "size": 1080,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/bbc9252f08b6bd8bf18db15ec258d457b1f2a1be"
+    },
+    {
+      "path": "TSVD/LibADMM-master/tensor_tools/tran.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9cb8250517ce1636562a7223303e723cd0405cbe",
+      "size": 670,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/9cb8250517ce1636562a7223303e723cd0405cbe"
+    },
+    {
+      "path": "TSVD/LibADMM-master/tensor_tools/tubalrank.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5fb0b4475e955dfe433278f9cf89a000cbc1bc29",
+      "size": 934,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/5fb0b4475e955dfe433278f9cf89a000cbc1bc29"
+    },
+    {
+      "path": "TSVD/Log_prox_tnn.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "46d06c5f7ee2212f894b4d0caf294d7bc198d1e6",
+      "size": 1170,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/46d06c5f7ee2212f894b4d0caf294d7bc198d1e6"
+    },
+    {
+      "path": "TSVD/PPlus.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89c94b28cc70b3ff4cbcd8cf0a0fcb938a77d9ed",
+      "size": 1656,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/89c94b28cc70b3ff4cbcd8cf0a0fcb938a77d9ed"
+    },
+    {
+      "path": "TSVD/PPlus_s.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4890c2e626cdbd9f68ab223ce68f095b74d6b16",
+      "size": 824,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/b4890c2e626cdbd9f68ab223ce68f095b74d6b16"
+    },
+    {
+      "path": "TSVD/SSSM_FUS.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7c6a0f97489340e6ad49c82c372c8827a4db265",
+      "size": 3225,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/a7c6a0f97489340e6ad49c82c372c8827a4db265"
+    },
+    {
+      "path": "TSVD/Sylvester.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9971197b8a2855c92e046ce6e77d6082e8996099",
+      "size": 813,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/9971197b8a2855c92e046ce6e77d6082e8996099"
+    },
+    {
+      "path": "TSVD/TSVD_FUS.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ef36b6445a7f24be273958ac1d7d9faa5e60a6f",
+      "size": 2905,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/6ef36b6445a7f24be273958ac1d7d9faa5e60a6f"
+    },
+    {
+      "path": "TSVD/TSVD_Subpace_FUS.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d0320a6ffb74c3def3efd74423806ba5e73cd13c",
+      "size": 3042,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/d0320a6ffb74c3def3efd74423806ba5e73cd13c"
+    },
+    {
+      "path": "TSVD/TSVD_Subpace_FUS1.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9451327914481ba5e992f31baa374c647af0a4dd",
+      "size": 3088,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/9451327914481ba5e992f31baa374c647af0a4dd"
+    },
+    {
+      "path": "TSVD/TSVD_Subpace_FUS2.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42f97b72a2ba7847549961d3d57c40eea4009d83",
+      "size": 2895,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/42f97b72a2ba7847549961d3d57c40eea4009d83"
+    },
+    {
+      "path": "TSVD/WNNM.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10746ee6959fcfcb10369946aad57b3d439c6fdb",
+      "size": 331,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/10746ee6959fcfcb10369946aad57b3d439c6fdb"
+    },
+    {
+      "path": "TSVD/fac.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9dedcfe347aa2866fc21bff89695e4a71e1c3714",
+      "size": 467,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/9dedcfe347aa2866fc21bff89695e4a71e1c3714"
+    },
+    {
+      "path": "TSVD/learn_spectral_similarties.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42e0748844653c0ef23751cb5efaa3ca2ad546bc",
+      "size": 768,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/42e0748844653c0ef23751cb5efaa3ca2ad546bc"
+    },
+    {
+      "path": "demo_cave.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52225456e3b8da50c4505d662e62925bcb2b84e6",
+      "size": 5432,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/52225456e3b8da50c4505d662e62925bcb2b84e6"
+    },
+    {
+      "path": "demo_indianpan.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d83e6f806d92395b7ddeb5e831fd8afe8e3fb42",
+      "size": 6486,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/4d83e6f806d92395b7ddeb5e831fd8afe8e3fb42"
+    },
+    {
+      "path": "demo_pavia.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56648a41ff85fe8302c00958285b24c8db11a6ea",
+      "size": 6183,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/56648a41ff85fe8302c00958285b24c8db11a6ea"
+    },
+    {
+      "path": "functions.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f92b4ba7ac8d9575966ba39ef3980799bf6e0d48",
+      "size": 49669,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/f92b4ba7ac8d9575966ba39ef3980799bf6e0d48"
+    },
+    {
+      "path": "intc.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "86eed684abf562b9708eb827bd5a7046686f4171",
+      "size": 2350,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/86eed684abf562b9708eb827bd5a7046686f4171"
+    },
+    {
+      "path": "para_cave.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "38ae4d4a11b8b00f95cbe0715b80ff0c9867fccc",
+      "size": 1881,
+      "url": "https://api.github.com/repos/renweidian/GTNN/git/blobs/38ae4d4a11b8b00f95cbe0715b80ff0c9867fccc"
+    }
+  ],
+  "truncated": false
+}

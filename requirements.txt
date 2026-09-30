@@ -1,0 +1,18 @@
+# Python 3.10; versions recorded in the local experiment environment.
+torch==2.4.1
+torchvision==0.19.1
+numpy==1.26.4
+scipy==1.15.2
+PyYAML==6.0.2
+omegaconf==2.3.0
+einops==0.8.1
+accelerate==1.8.1
+ema-pytorch==0.7.7
+scikit-image==0.25.2
+matplotlib==3.10.1
+Pillow==11.1.0
+tqdm==4.67.1
+tifffile==2025.3.30
+opencv-python==4.11.0.86
+scikit-learn
+av

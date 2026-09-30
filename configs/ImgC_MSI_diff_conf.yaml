@@ -1,0 +1,45 @@
+model:
+  tensor_shape: !!python/tuple [256, 256, 31]
+  h_dim: !!python/tuple [64, 64] #[512, 512]
+  act: 'silu' #'relu' 'silu'
+  latent_dim: 32 #256
+  x_emb_size: 32 #32
+  t_emb_size: 32 #32
+  sigma_func: 'softplus'
+  dropout: 0.0
+  pooling_method: 'cat' #'cat'
+  skip_connection: true
+  posdim: 128 #128
+  rank: 32 #128
+  rff_alpha: 2.0 #2.0
+  rff_sigma: 64.0 #64.0
+
+diffusion:
+  seq_length: 1
+  channels: 1
+  timesteps: 1 #1
+  sampling_timesteps: 1 #1
+  objective: 'pred_x0' #'pred_x0'
+  beta_schedule: 'cosine' #cosine
+  ddim_sampling_eta: 0.0
+  auto_normalize: True #normalize to -1 to 1
+  self_condition: False
+  channel_first: False
+
+trainer:
+  train_batch_size: 256 #256
+  gradient_accumulate_every: 1
+  train_lr: 0.001 #网络越宽 lr越小 0.001
+  adam_betas: !!python/tuple [0.9, 0.99]
+  weight_decay: 0.0
+  scheduler: 'cosine'
+  train_num_steps: 40000 #20000 
+  ema_update_every: 2
+  ema_decay: 0.995
+  save_and_sample_every: 1000
+  results_folder: './results'
+  amp: False
+  mixed_precision_type: 'fp16'
+  split_batches: False
+  max_grad_norm: 2.0
+  norm_type: 'inf'

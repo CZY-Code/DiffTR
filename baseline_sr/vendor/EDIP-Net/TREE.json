@@ -1,0 +1,534 @@
+{
+  "sha": "89413738cb8bfa6cec2693d40c6120ed2e532a04",
+  "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/trees/89413738cb8bfa6cec2693d40c6120ed2e532a04",
+  "tree": [
+    {
+      "path": "Imgs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "efb8227ee1a6d624d76064981645bad92ed696ec",
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/trees/efb8227ee1a6d624d76064981645bad92ed696ec"
+    },
+    {
+      "path": "Imgs/EDIP-Net.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "44114f66185b8bc87e08678cd02fc436a8e5374b",
+      "size": 4185411,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/44114f66185b8bc87e08678cd02fc436a8e5374b"
+    },
+    {
+      "path": "Imgs/fig1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f5c3ccb74c2da3ce92124c3394571884dff5d15",
+      "size": 837261,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/2f5c3ccb74c2da3ce92124c3394571884dff5d15"
+    },
+    {
+      "path": "Imgs/fig2.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2a5bf5eebac51c6a5a004e2682e7ac0d36416c1e",
+      "size": 3175,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/2a5bf5eebac51c6a5a004e2682e7ac0d36416c1e"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "edf7d80bb98db8ec7234e3b01e3723ff52cdbe25",
+      "size": 8547,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/edf7d80bb98db8ec7234e3b01e3723ff52cdbe25"
+    },
+    {
+      "path": "checkpoints",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ed0c6bd6e82d9ca0a3ce7e95133e7c5b8c6da176",
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/trees/ed0c6bd6e82d9ca0a3ce7e95133e7c5b8c6da176"
+    },
+    {
+      "path": "checkpoints/TGSF12_band240_S1_0.001_2000_2000_S2_0.004_2000_2000_S3_0.004_7000_7000",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "08c50685f52887a47ab832ad1e607ae850a3c734",
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/trees/08c50685f52887a47ab832ad1e607ae850a3c734"
+    },
+    {
+      "path": "checkpoints/TGSF12_band240_S1_0.001_2000_2000_S2_0.004_2000_2000_S3_0.004_7000_7000/\u8bad\u7ec3\u7ed3\u679cmat\u8fc7\u5927\u65e0\u6cd5\u4e0a\u4f20.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f07641ae42b7f649e20d00353af61b1fb7c1a826",
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/trees/f07641ae42b7f649e20d00353af61b1fb7c1a826"
+    },
+    {
+      "path": "data/EDIP-Net",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "31875d5d0b3852c1ffecf7ffae4d997ba8856f66",
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/trees/31875d5d0b3852c1ffecf7ffae4d997ba8856f66"
+    },
+    {
+      "path": "data/EDIP-Net/TG",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0a4b16cbd9ac86b0667575a8595ec55196376ac1",
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/trees/0a4b16cbd9ac86b0667575a8595ec55196376ac1"
+    },
+    {
+      "path": "data/EDIP-Net/TG/REF.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "22a8ef73fcaad477b284117fadcad91f95116053",
+      "size": 9654374,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/22a8ef73fcaad477b284117fadcad91f95116053"
+    },
+    {
+      "path": "data/EDIP-Net/spectral_response",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a87806f28270f6be1c3cea947bb1b04d47493bc7",
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/trees/a87806f28270f6be1c3cea947bb1b04d47493bc7"
+    },
+    {
+      "path": "data/EDIP-Net/spectral_response/TG.xls",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c7d98fe3ddc938f0289a9e5f023529f7bf733b80",
+      "size": 25088,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/c7d98fe3ddc938f0289a9e5f023529f7bf733b80"
+    },
+    {
+      "path": "main.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba1b74badf4d7ddda1a89f6bbe184da9f9dec748",
+      "size": 3278,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/ba1b74badf4d7ddda1a89f6bbe184da9f9dec748"
+    },
+    {
+      "path": "model",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "68f07308a8ff1f6d39e640baa02981f2b266a07f",
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/trees/68f07308a8ff1f6d39e640baa02981f2b266a07f"
+    },
+    {
+      "path": "model/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "658f943df0cb2dad69b4aec98c9577c95919201b",
+      "size": 90,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/658f943df0cb2dad69b4aec98c9577c95919201b"
+    },
+    {
+      "path": "model/__pycache__",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8542098173b0389daf3d52afe398ce69dafb94fe",
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/trees/8542098173b0389daf3d52afe398ce69dafb94fe"
+    },
+    {
+      "path": "model/__pycache__/EDSR.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "739cec049affef75183b129108c5a977d9b11751",
+      "size": 2794,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/739cec049affef75183b129108c5a977d9b11751"
+    },
+    {
+      "path": "model/__pycache__/MST_Plus_Plus.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c7ee222c24eff32d49bce8dde303ff6ae7587bc",
+      "size": 9556,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/2c7ee222c24eff32d49bce8dde303ff6ae7587bc"
+    },
+    {
+      "path": "model/__pycache__/Whispers.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d385164a995caa245d4195de18e643dd455f82a8",
+      "size": 3985,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/d385164a995caa245d4195de18e643dd455f82a8"
+    },
+    {
+      "path": "model/__pycache__/__init__.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9bf09919978c1ffd6d1942d0456bf9946034746c",
+      "size": 189,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/9bf09919978c1ffd6d1942d0456bf9946034746c"
+    },
+    {
+      "path": "model/__pycache__/__init__.cpython-39.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "88e1423a36f21422b267398ce1fdf05ef839fdd2",
+      "size": 193,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/88e1423a36f21422b267398ce1fdf05ef839fdd2"
+    },
+    {
+      "path": "model/__pycache__/config.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b4974ae5b092472644a2e84122dd463d301d525",
+      "size": 2504,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/9b4974ae5b092472644a2e84122dd463d301d525"
+    },
+    {
+      "path": "model/__pycache__/config.cpython-39.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4e235dfb2b2181aea06e87f9c21e3a402c94f231",
+      "size": 2535,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/4e235dfb2b2181aea06e87f9c21e3a402c94f231"
+    },
+    {
+      "path": "model/__pycache__/dip.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ace66a701ed11bb7c4f470171300bc55997cf358",
+      "size": 8396,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/ace66a701ed11bb7c4f470171300bc55997cf358"
+    },
+    {
+      "path": "model/__pycache__/dip.cpython-39.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25f29718bce56f609dcc2f4f9744d924049c8d35",
+      "size": 8136,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/25f29718bce56f609dcc2f4f9744d924049c8d35"
+    },
+    {
+      "path": "model/__pycache__/evaluation.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a4df093024c51f4fa5ca706734b9d870fb11a7c",
+      "size": 3008,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/3a4df093024c51f4fa5ca706734b9d870fb11a7c"
+    },
+    {
+      "path": "model/__pycache__/evaluation.cpython-39.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec993d101a26c9f1eba68f08410cc46582d14dfe",
+      "size": 2621,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/ec993d101a26c9f1eba68f08410cc46582d14dfe"
+    },
+    {
+      "path": "model/__pycache__/fusion.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4602efbb37e2d78447226da451a57069ea5ceac9",
+      "size": 11883,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/4602efbb37e2d78447226da451a57069ea5ceac9"
+    },
+    {
+      "path": "model/__pycache__/fusion_simple.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8b0ad6555075dd49c045032aca416b25f4a4c7d",
+      "size": 7220,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/b8b0ad6555075dd49c045032aca416b25f4a4c7d"
+    },
+    {
+      "path": "model/__pycache__/network.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "767ad145a5c67cdc101e55cf1ad1379d9bae5002",
+      "size": 18150,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/767ad145a5c67cdc101e55cf1ad1379d9bae5002"
+    },
+    {
+      "path": "model/__pycache__/network_SRF.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c6ddacd4daf27d9ca80d9434bab3504e1b61289f",
+      "size": 8246,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/c6ddacd4daf27d9ca80d9434bab3504e1b61289f"
+    },
+    {
+      "path": "model/__pycache__/network_psf_srf.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59afc06bcd4fc7dc157a5ef6bf0eccfd605cd55a",
+      "size": 10149,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/59afc06bcd4fc7dc157a5ef6bf0eccfd605cd55a"
+    },
+    {
+      "path": "model/__pycache__/network_s2.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "71827acd59fac5d92946bc283c3b5b9b0e79468c",
+      "size": 8416,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/71827acd59fac5d92946bc283c3b5b9b0e79468c"
+    },
+    {
+      "path": "model/__pycache__/network_s2.cpython-39.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "90905c5438ba475fcba3040f43c52a236aa4e4a1",
+      "size": 4414,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/90905c5438ba475fcba3040f43c52a236aa4e4a1"
+    },
+    {
+      "path": "model/__pycache__/network_s3.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d58af269541802d298b163af2ee955842d17bdb",
+      "size": 22870,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/4d58af269541802d298b163af2ee955842d17bdb"
+    },
+    {
+      "path": "model/__pycache__/network_s3.cpython-39.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51c9a6b69706705a0fda05ba9842e611a803e037",
+      "size": 4737,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/51c9a6b69706705a0fda05ba9842e611a803e037"
+    },
+    {
+      "path": "model/__pycache__/read_data.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6717c2538e1cdc44cf013a7b7067427c0efb91ef",
+      "size": 6599,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/6717c2538e1cdc44cf013a7b7067427c0efb91ef"
+    },
+    {
+      "path": "model/__pycache__/read_data.cpython-39.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6b0f6e131e5ef02a32a26afa671c427cd7afabbe",
+      "size": 6595,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/6b0f6e131e5ef02a32a26afa671c427cd7afabbe"
+    },
+    {
+      "path": "model/__pycache__/select.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "88729bc77e722ee8b7617fe1e833a61dcc2e433c",
+      "size": 7472,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/88729bc77e722ee8b7617fe1e833a61dcc2e433c"
+    },
+    {
+      "path": "model/__pycache__/select.cpython-39.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a0352fd361f3e315c0da97085a4b6af1bbd722b2",
+      "size": 4098,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/a0352fd361f3e315c0da97085a4b6af1bbd722b2"
+    },
+    {
+      "path": "model/__pycache__/spatial_SR.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9495a62936f52b98f3c1c79992a55c7f80df9a88",
+      "size": 8393,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/9495a62936f52b98f3c1c79992a55c7f80df9a88"
+    },
+    {
+      "path": "model/__pycache__/spectral_51.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "464f3d1181f7c3e349ac377db618753b8ee62a90",
+      "size": 6040,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/464f3d1181f7c3e349ac377db618753b8ee62a90"
+    },
+    {
+      "path": "model/__pycache__/spectral_52.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb9bc8935e1a3bc53c0eef0644e7847a7e6141ce",
+      "size": 4852,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/bb9bc8935e1a3bc53c0eef0644e7847a7e6141ce"
+    },
+    {
+      "path": "model/__pycache__/spectral_53.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5bf50cac68660e14450d52fb98988c21e40b7c75",
+      "size": 4577,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/5bf50cac68660e14450d52fb98988c21e40b7c75"
+    },
+    {
+      "path": "model/__pycache__/spectral_SR.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b815ba2bb8f32caf9237e7d6f9675126c25b29c5",
+      "size": 8812,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/b815ba2bb8f32caf9237e7d6f9675126c25b29c5"
+    },
+    {
+      "path": "model/__pycache__/spectral_SR_C2F.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aae2e861ae9618028b56081741f5b59a1dbbb2c5",
+      "size": 4549,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/aae2e861ae9618028b56081741f5b59a1dbbb2c5"
+    },
+    {
+      "path": "model/__pycache__/spectral_SR_fusion.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d6835ee26c19706edb4290fe0a9651968e9e032",
+      "size": 4089,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/2d6835ee26c19706edb4290fe0a9651968e9e032"
+    },
+    {
+      "path": "model/__pycache__/spectral_SR_fusion_C.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d45c08e0afb5a27efdeb536a1508be4c6a83ccc",
+      "size": 5109,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/6d45c08e0afb5a27efdeb536a1508be4c6a83ccc"
+    },
+    {
+      "path": "model/__pycache__/spectral_SR_fusion_C2F.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be1277a07b524b93d9b274fa3406e3e0901243bc",
+      "size": 5360,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/be1277a07b524b93d9b274fa3406e3e0901243bc"
+    },
+    {
+      "path": "model/__pycache__/spectral_SR_fusion_F.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d10d1074c3e1dc2c9e2e494761bf1126bedad61",
+      "size": 4031,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/4d10d1074c3e1dc2c9e2e494761bf1126bedad61"
+    },
+    {
+      "path": "model/__pycache__/spectral_SR_fusion_group.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35744edf09e0f17789a8c784122f280e3ae07db8",
+      "size": 5199,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/35744edf09e0f17789a8c784122f280e3ae07db8"
+    },
+    {
+      "path": "model/__pycache__/spectral_SR_group.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "08447e2275816736e7f9b69d3cf3315eac60ffde",
+      "size": 4500,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/08447e2275816736e7f9b69d3cf3315eac60ffde"
+    },
+    {
+      "path": "model/__pycache__/spectral_up.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "271ff9bb0cf2a66e848a045577a6b68777b7f614",
+      "size": 4462,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/271ff9bb0cf2a66e848a045577a6b68777b7f614"
+    },
+    {
+      "path": "model/__pycache__/spectral_up.cpython-39.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd2e6f3fe1429933164cbe385c36c0431dc45b37",
+      "size": 4207,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/cd2e6f3fe1429933164cbe385c36c0431dc45b37"
+    },
+    {
+      "path": "model/__pycache__/srf_psf_layer.cpython-38.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a048fe9671c03cef55330a688ab4bbff1a9aa21",
+      "size": 7579,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/5a048fe9671c03cef55330a688ab4bbff1a9aa21"
+    },
+    {
+      "path": "model/__pycache__/srf_psf_layer.cpython-39.pyc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a0b5565a76044320a0f044824045f7ef12e065f",
+      "size": 7087,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/6a0b5565a76044320a0f044824045f7ef12e065f"
+    },
+    {
+      "path": "model/config.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ebe3ba2aeaf12810c2b89a236e595bbdeda3afac",
+      "size": 3430,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/ebe3ba2aeaf12810c2b89a236e595bbdeda3afac"
+    },
+    {
+      "path": "model/dip.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "990cc877a858c69faf2fefe34d713620f4c80165",
+      "size": 15751,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/990cc877a858c69faf2fefe34d713620f4c80165"
+    },
+    {
+      "path": "model/evaluation.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "697f64e7c8d69341b66d77ba802079b4ac77cd3b",
+      "size": 3142,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/697f64e7c8d69341b66d77ba802079b4ac77cd3b"
+    },
+    {
+      "path": "model/network_s2.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce9d0a64e5261e1bf584370add98bc1939e753bb",
+      "size": 6588,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/ce9d0a64e5261e1bf584370add98bc1939e753bb"
+    },
+    {
+      "path": "model/network_s3.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e10aa4f37ec14e28ca34cc1022bab07abc3aefd",
+      "size": 9424,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/6e10aa4f37ec14e28ca34cc1022bab07abc3aefd"
+    },
+    {
+      "path": "model/read_data.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "614641f1e52992ede4499e229c3b69095b5560ed",
+      "size": 8057,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/614641f1e52992ede4499e229c3b69095b5560ed"
+    },
+    {
+      "path": "model/select.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca9c1d80b5c15291b16fb71ead08d9cc0dd1330f",
+      "size": 7904,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/ca9c1d80b5c15291b16fb71ead08d9cc0dd1330f"
+    },
+    {
+      "path": "model/spectral_up.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af2e974f09ec71e1cda6bc4aa8fd7e42620fbbe8",
+      "size": 8137,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/af2e974f09ec71e1cda6bc4aa8fd7e42620fbbe8"
+    },
+    {
+      "path": "model/srf_psf_layer.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d202a1dea96ce4ed65e304ce0f7ce2060e69f870",
+      "size": 12764,
+      "url": "https://api.github.com/repos/JiaxinLiCAS/EDIP-Net_TGRS/git/blobs/d202a1dea96ce4ed65e304ce0f7ce2060e69f870"
+    }
+  ],
+  "truncated": false
+}

@@ -1,0 +1,78 @@
+{
+  "repository": "JiaxinLiCAS/EDIP-Net_TGRS",
+  "url": "https://github.com/JiaxinLiCAS/EDIP-Net_TGRS",
+  "commit": "89413738cb8bfa6cec2693d40c6120ed2e532a04",
+  "default_branch": "main",
+  "files": [
+    {
+      "path": "Imgs/EDIP-Net.pdf",
+      "bytes": 4185411,
+      "sha256": "02b4c8f3ae4c5321f5fdd70b89fed48fee8d1ed26f1e66364cfde96faa7334d3"
+    },
+    {
+      "path": "README.md",
+      "bytes": 8547,
+      "sha256": "dbc6388d873ab023e96a27940812a8058b5c8daa2b5817d096bedd00fc1b8f0d"
+    },
+    {
+      "path": "checkpoints/TGSF12_band240_S1_0.001_2000_2000_S2_0.004_2000_2000_S3_0.004_7000_7000/\u8bad\u7ec3\u7ed3\u679cmat\u8fc7\u5927\u65e0\u6cd5\u4e0a\u4f20.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "main.py",
+      "bytes": 3278,
+      "sha256": "5727f891d048681237192bc001d2f5867ed163460ec058fe72b1088229e96b40"
+    },
+    {
+      "path": "model/__init__.py",
+      "bytes": 90,
+      "sha256": "1ef2db45bfeb7b774963cb51f0faae9f96ae54633dbcc280a93ac31dcf441f3a"
+    },
+    {
+      "path": "model/config.py",
+      "bytes": 3430,
+      "sha256": "5b57aa96d311b7c2bda97fdcc9caaa3e0867f00c211920de674eba171d2392ac"
+    },
+    {
+      "path": "model/dip.py",
+      "bytes": 15751,
+      "sha256": "4d1762ad7849f90a2c383617d340da87256ee2861d88eb5e756818362cdae245"
+    },
+    {
+      "path": "model/evaluation.py",
+      "bytes": 3142,
+      "sha256": "6949623dcf75e7d792ff7681805ff229ae6c852f6b5ff634ab154c0039953104"
+    },
+    {
+      "path": "model/network_s2.py",
+      "bytes": 6588,
+      "sha256": "a7ebb6f9926e458e1cde8f9609481dc43951981031de60ce61f9916fb0b1423b"
+    },
+    {
+      "path": "model/network_s3.py",
+      "bytes": 9424,
+      "sha256": "fb12295fe5e6911d8fb05f750f5933e3693b7f5fb168553d05f056d9b55692e6"
+    },
+    {
+      "path": "model/read_data.py",
+      "bytes": 8057,
+      "sha256": "7db5105c88acac37b5d6dc0abc7aa2f3288cbc1da30cafab34ace0a22aa66ed4"
+    },
+    {
+      "path": "model/select.py",
+      "bytes": 7904,
+      "sha256": "02c54c6e6b3264c081e4e4225833eb90b739d30fde265e8a8304892b3ab07f14"
+    },
+    {
+      "path": "model/spectral_up.py",
+      "bytes": 8137,
+      "sha256": "ea3e3d8b143d69e2ecbdfe600c2ffc98f1dc263e678454a6be56b66d8838005c"
+    },
+    {
+      "path": "model/srf_psf_layer.py",
+      "bytes": 12764,
+      "sha256": "47153f3cd9f8778034a0c7dda6128e02c49920e2ec2f14b63452cbfe1a3e3030"
+    }
+  ]
+}

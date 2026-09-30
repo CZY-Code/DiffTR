@@ -1,0 +1,23 @@
+{
+  "sha": "fed96ddc97c530e9f2a5e91d48670dfab24b0ef6",
+  "url": "https://api.github.com/repos/xuhonghui96/GNLTN/git/trees/fed96ddc97c530e9f2a5e91d48670dfab24b0ef6",
+  "tree": [
+    {
+      "path": "GNLTN_demo.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd2e99ae0182f8b27af2b06d8d0c0f4f413645e8",
+      "size": 14769520,
+      "url": "https://api.github.com/repos/xuhonghui96/GNLTN/git/blobs/bd2e99ae0182f8b27af2b06d8d0c0f4f413645e8"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb3e118b96ec2ef0ab50274190fbc540f68cff02",
+      "size": 892,
+      "url": "https://api.github.com/repos/xuhonghui96/GNLTN/git/blobs/bb3e118b96ec2ef0ab50274190fbc540f68cff02"
+    }
+  ],
+  "truncated": false
+}
